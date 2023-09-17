@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Folkatech</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="appBarTitle">List Product</string>
+    <string name="title">Title</string>
+    <string name="price">Price</string>
+    <string name="appBarDetailTitle">Detail Product</string>
+    <string name="descTitle">Description</string>
+    <string name="desc">Desc</string>
+    <string name="liveShow">Live Show</string>
+    <string name="liveClass">Live Class</string>
+    <string name="eCourse">E-Course</string>
+    <string name="Community">Community</string>
+    <string name="myProfile">My Profile</string>
+    <string name="savedCourse">Saved Course</string>
+    <string name="recentCourses">Recent Courses</string>
+    <string name="myList">My List</string>
+    <string name="myCart">My Cart</string>
+    <string name="purchaseHistory">Purchase History</string>
+    <string name="marketplace">Marketplace</string>
+    <string name="Features">Features</string>
+</resources>
